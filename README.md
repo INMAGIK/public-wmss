@@ -38,4 +38,7 @@ http://www.cartografia.regione.lombardia.it/ArcGISIIT2/rest/services
 # See also
 
 * *http://opengis.altervista.org/lista_wms.html*
+* *http://blog.perrygeo.net/2006/03/26/wms-layers-my-top-ten/*
+* *http://trac.osgeo.org/openlayers/wiki/AvailableWMSServices*
+* 
 
